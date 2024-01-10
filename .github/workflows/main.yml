@@ -88,7 +88,7 @@ jobs:
           tags: dankovaalina/taski_backend:latest
 
 
-    frontend_tests:
+  frontend_tests:
     runs-on: ubuntu-latest
 
     steps:
